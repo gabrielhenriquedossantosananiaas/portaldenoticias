@@ -1,0 +1,64 @@
+site
+cores:principalmente preto e branco(usar o site para pegar em #)
+design (inspirado no cnn e bbc)
+criar pastas co cada noticia
+dentrp da noticia por enq pode ser bbc+g1 globo               DENTRO DA CATEGORIA È https://www.techtudo.com.br/jogos/
+--------------------------------------------------------------------------------------------------------------------------
+possiveis nomes
+-NexusFocus
+-NexusNews
+-nexuscentrals
+ slogans
+
+-"Descubra o poder da verdade com ai poe o nome tlg?
+-
+-
+
+ARRUMAR A IMAGEM PRETA LA DE CIMA O 1 ANUNCIO E O SEGUNDO TAMBEM EU ACHO
+
+
+USAR ANUNCIOS NO MEIO
+USAR BASTANTE O hR PQ FICA BNT(SE NAO COMBINAR É SO NAO USAR CARALHO
+Categorias:
+-saude            SEGUNDA CATEGORia JA FOIIIIIIIIIIIIIIII 2/2
+-politica -       SEXTA CATEGORIA model 1 JA FOIIIIIIIIIIIIIIIIIIII 2/2
+-educacao         OITAVA CATEGORIA model 1 JA FOIIIIIIIIIIIIIIIIIIIII 2/2
+-internacional   QUINTA CATEGORIA outro model  JA FOIIIIIIIIIIIIIII 2/2
+-brasil          QUARTA CATEGORIA outro model  JA FOIIIIIIIIIIIIIIII 2/2
+-ultimas noticias  DECIMA SEGUNDA CATEGORIA model 2
+-destaques -------------------------------JA FOI Menos 1 fi
+-economia       NONO CATEGORIA model 1     JA FOIIIIIIIIIIIIIIIIIIIIIII 2/2
+-esportes -     DECIMA CATEGORIA model 2
+-musica         SETIMA CATEGORIA outro model JA FOIIIIIIIIIIIIIIIIIIIII 2/2
+-gastronomia     DECIMA PRIMEIRA CATEGORIA model 2
+-viagens   primeira categoria JA FOIIIIIIII 2/2
+-games      TERCEIRA CATEGORia JA FOIIIIIIIIII 2/2
+-
+-
+]
+
+
+
+pensando em colocar o model de coluna;gastronomia (prato bonito)ultimo,esporte(foto de campo)primeiro e musica(violao)segundo
+https://www.tecmundo.com.br/voxel 
+QUANDO FOR ENTRAR EM ALGUMA NOTICIA DE GAME SE INSPIRAR MUITO NA ENTRADA DESSE SITE
+
+
+tags principais:
+-<center>
+</center>
+-h1,h2,h3,h4,h5,h6(titulo)                       TALVEZ: NEGRITO<ITALICO E ETC
+-p(paragrafo)
+-br(quebra de linha)
+-hr(linha)
+-&nbsp; (espacos MT IMPORTANTE)
+-big e small(aumentar e diminuir a fonte)
+-<font face="nome da fonte"
+-img(imagens)
+-listas caso necessario
+-table(tabela pra por imagens e cores que eu quero SUPER NECESSARIA
+-A(link sem isso nao tem site KKKKKK)
+
+CATEGORIA SER CHAMATVA IGUAL DO CNN
+FORMATO DE NOTICIA INDIVIDUAL IGUAL BBC
+
